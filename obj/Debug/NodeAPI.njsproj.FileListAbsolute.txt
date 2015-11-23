@@ -1,0 +1,2 @@
+C:\Users\Cory\nodeapi\obj\Debug\NodeAPI.njsprojResolveAssemblyReference.cache
+C:\Users\Cory\nodeapi\bin\Microsoft.NodejsTools.WebRole.dll
