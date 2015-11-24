@@ -14,6 +14,7 @@ app.use('/test', function(req, res) {
 app.use('/api/users', require('./routes/users'));
 app.use('/api/login', require('./routes/sessions'));
 app.use('/api/definitions', require('./routes/definitions'));
+app.use('/api/logs', require('./routes/logs'));
 
 app.listen(3000, function() {
     console.log('app is listening on port 3000...');
